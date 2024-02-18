@@ -11,52 +11,52 @@ document.querySelectorAll('.dropdown-menu a.dropdown-toggle').forEach(function (
 // main-content
 const videosList = [
     {
-        video: 'videos/vid1.mp4',
+        video: 'vid1.mp4',
         title: 'Lesson 1: Thief- An animated short film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid2.mp4',
+        video: 'vid2.mp4',
         title: 'Lesson 2: Family Trip- 3D Animated short film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid3.mp4',
+        video: 'vid3.mp4',
         title: 'Lesson 3: Animation Short Film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid4.mp4',
+        video: 'vid4.mp4',
         title: 'Lesson 4: Birds Animated Short Film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid5.mp4',
+        video: 'vid5.mp4',
         title: 'Lesson 5: Fugu- Animated Short Film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid6.mp4',
+        video: 'vid6.mp4',
         title: 'Lesson 6: Morning- Animated Short Film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid7.mp4',
+        video: 'vid7.mp4',
         title: 'Lesson 7: Funny- Animated Short Film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid8.mp4',
+        video: 'vid8.mp4',
         title: 'Lesson 8: Cocotte- Animated Short Film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid9.mp4',
+        video: 'vid9.mp4',
         title: 'Lesson 9: Alert- Animated Short Film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
     {
-        video: 'videos/vid10.mp4',
+        video: 'vid10.mp4',
         title: 'Lesson 10: Stone- Animated Short Film',
         parag: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto cum quibusdam ducimus molestias blanditiis aliquid!'
     },
